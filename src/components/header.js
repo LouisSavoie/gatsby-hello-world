@@ -1,4 +1,3 @@
-import { printIntrospectionSchema } from "graphql-compose/lib/graphql"
 import React from "react"
 
 export default function Header(props) {
